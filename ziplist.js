@@ -1,3 +1,5 @@
+// 11.25 min
+
 const ziplist = (list1, list2) => {
   const alternating = [];
 
